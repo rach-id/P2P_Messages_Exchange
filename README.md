@@ -1,5 +1,6 @@
 # Fun
-This is a fun Project
+This is a fun Project that lets you send messages between different nodes using zMQ c++ target.
+The simulation is done in vagrant o bring 6 nodes up and running.
 
 
 

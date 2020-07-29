@@ -11,17 +11,17 @@ To compile the stuff :
   
   => make sure you have a working Vagrant env
   
-  => $ vagrant up 
+  => `$ vagrant up `
 
 this will create 6 hosts ready to be used
   
-  => Compile the project : $ cd Code && make && make clean 
+  => Compile the project : `$ cd Code && make && make clean`
   
-  => Log into the vagrant machines : $ vagrant ssh host-[1-5] 
+  => Log into the vagrant machines : `$ vagrant ssh host-[1-5]` 
 
-#each in a different terminal and also the consul server : $ vagrant ssh consul-server
+#each in a different terminal and also the consul server : `$ vagrant ssh consul-server`
 
-  => in all machines  $  /vagrant/Code/Server
+  => in all machines  `$ /vagrant/Code/Server`
   
   Write a message and see the magic.
  
